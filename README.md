@@ -14,7 +14,7 @@ on the python side and:
 
 - prettier
 
-on the frontend. Ezlint will automatically know which linting tools to run based on the file extension.
+on the frontend. EzLint will automatically know which linting tools to run based on the file extension.
 
 Ensure you have all dependencies installed in your environment.
 Run:
