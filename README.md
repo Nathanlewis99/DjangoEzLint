@@ -19,7 +19,7 @@ on the frontend.
 Ensure you have all dependencies installed in your environment.
 Run:
 ```bash
-make all
+make install
 ```
 if you are missing any.
 
