@@ -24,7 +24,7 @@ lint_python() {
 
 # Function to lint HTML, JS, and CSS files
 lint_web() {
-    npx prettier --write "$1"
+    djlint "$1" --profile=django --reformat
 }
 
 # Determine file extension

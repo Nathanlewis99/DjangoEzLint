@@ -12,7 +12,7 @@ is in line with PEP 8 standards, by leveraging libraries such as:
 
 on the python side and:
 
-- prettier
+- djlint
 
 on the frontend. EzLint will automatically know which linting tools to run based on the file extension.
 
